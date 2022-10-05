@@ -1,6 +1,6 @@
 [project]
 name = "deployed_dags_glenb"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Glen Haber", email="glen.haber@thebridgecorp.com" },
 ]
